@@ -5,7 +5,7 @@
 
 - 🔭 Estou buscando por um/uma: **Estágio, vaga/Trainne ou vaga/Júnior em Front-end.**
 
-- 🌱 Atualmente estou estudando: **Html5, Css3, JavaScript, Saas, Bootstrap, React, Git, Node.JS.**
+- 🌱 Atualmente estou estudando: **Html5, Css3, JavaScript, Git.**
 
 - ⚡ **Utilizo o método Pomodoro para realizar minhas atividades, estudo todos os dias.**
 
