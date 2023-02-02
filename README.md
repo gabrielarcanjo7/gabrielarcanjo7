@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando: **Html5, Css3, JavaScript, Git.**
 
-- ⚡ **Utilizo o método Pomodoro para realizar minhas atividades, estudo todos os dias.**
+- ⚡ **Utilizo o método Pomodoro para realizar minhas atividades e estudos diários.**
 
 <h3 align="left"> :wrench: Languages and Tools:</h3>
 <p align="left">
