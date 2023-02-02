@@ -29,7 +29,7 @@
 
 
 
-Pretendo conciliar novos aprendizados como fullstack para star novos mercados.
+Pretendo conciliar novos aprendizados como fullstack para buscar novos mercados!
 
 </samp>
 
