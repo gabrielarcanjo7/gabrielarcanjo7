@@ -63,8 +63,3 @@ Pretendo conciliar novos aprendizados como fullstack para buscar novos mercados!
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=gabrielarcanjo7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarcanjo7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<div  align="center"  style="display: inline_block">
-<a  href="https://git.io/streak-stats">
-<img  height="220em"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielarcanjo7&theme=tokyonight"/>
-</div>
