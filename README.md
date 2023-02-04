@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Gabriel Arcanjo</h1>
 <h3 align="center">Estudante de programação na Estácio, graduando Análise e Desenvolvimento de Sistemas</h3>
 
-- 🔭 Estou buscando por um/uma: **Estágio, vaga Trainee ou Júnior em Front-end.
+- 🔭 Estou buscando por um/uma: **Estágio, vaga Trainee ou Júnior em Front-end.**
 
 - 🌱 Atualmente estou estudando: **Html5, Css3, JavaScript, Git.**
 
