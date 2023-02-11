@@ -31,11 +31,6 @@ Pretendo conciliar novos aprendizados para me tornar um fullstack e buscar novos
 
 
 
----
-
-
-:rocket: `Usarei este espaço para publicar meus estudos e quero que esse perfil seja o retrato da minha evolução.`
-
  
 
 ---
