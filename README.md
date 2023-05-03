@@ -1,11 +1,11 @@
 <h1 align="center">Hii 👋, I'm Gabriel Arcanjo</h1>
-<h3 align="center">Estudante de programação na Estácio, graduando Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Programming student at Estácio, graduating Systems Analysis and Development</h3>
 
-- 🔭 Estou buscando por um/uma: **Estágio, vaga Trainee ou Júnior em Front-end.**
+- 🔭 I'm looking for a: **Internship, Trainee or Junior vacancy in Front-end.**
 
-- 🌱 Atualmente estou estudando: **Html5, Css3, JavaScript, Git.**
+- 🌱 I'm currently studying: **Html5, Css3, JavaScript and Git.**
 
-- ⚡ **Utilizo o método Pomodoro para realizar minhas atividades e estudos diários.**
+- ⚡ I use the **Pomodoro method** to carry out my daily activities and studies.
 
 <h3 align="left"> :wrench: Languages and Tools:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
 
 
 
-Pretendo conciliar novos aprendizados para me tornar um fullstack e buscar novos mercados!
+I intend to reconcile new learnings to become a fullstack and seek new markets!
 
 </samp>
 
