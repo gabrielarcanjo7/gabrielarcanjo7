@@ -3,7 +3,7 @@
 
 - 🔭 I'm looking for a: **Internship, Trainee or Junior vacancy in Front-end.**
 
-- 🌱 I'm currently studying: **Html5, Css3, JavaScript, Git, Sass and React.**
+- 🌱 I'm currently studying: **Html5, Css3, JavaScript, Git,  Sass and React.**
 
 - ⚡ I use the **Pomodoro method** to carry out my daily activities and studies.
 
