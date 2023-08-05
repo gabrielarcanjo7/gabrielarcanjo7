@@ -30,22 +30,3 @@
 I intend to reconcile new learnings to become a fullstack and seek new markets!
 
 </samp>
-
-
-
- 
-
----
-
-
-<div  class="snake"  align="center">
-
-  
-
-![Snake animation](https://github.com/walterowisk/walterowisk/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-<p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=gabrielarcanjo7&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="gabrielarcanjo7" />
-</p>
-  
-
