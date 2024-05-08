@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Gabriel Arcanjo</h1>
-<h3 align="center">Programming student at Estácio, graduating Systems Analysis and Development</h3>
+<h3 align="center">Student of programming, graduated in Analysis and Systems Development at Estácio</h3>
 
 - 🔭 I'm looking for a: **Internship, Trainee or Junior vacancy in Front-end.**
 
