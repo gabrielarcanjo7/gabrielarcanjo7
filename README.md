@@ -21,7 +21,7 @@
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://github.com/gabrielarcanjo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gabriel arcanjo" height="50" width="50"/></a>
-<a href="https://instagram.com/gabriel_arcanjo_bass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_arcanjo_bass" height="50" width="50" /></a>
+<a href="https://instagram.com/arcanjo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_arcanjo_bass" height="50" width="50" /></a>
 </p>
 
 <samp>
